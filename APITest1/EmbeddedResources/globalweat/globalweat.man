@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourceManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>dfda7475-a9b0-493c-9a84-117b00bcd37c</ID>
+  <Name>globalweat</Name>
+  <Type>WSDL</Type>
+  <Version>1</Version>
+  <CreationDate>2017-07-24T15:22:44.7247589-05:00</CreationDate>
+  <UpdateDate>2017-07-24T15:22:44.7247589-05:00</UpdateDate>
+  <LoaderID>SignatureResourceHandler</LoaderID>
+  <MetaDataSignatureFile>4679e063-7716-42e8-8cec-6c79a947af50.xml</MetaDataSignatureFile>
+  <TestResourceId>4679e063-7716-42e8-8cec-6c79a947af50</TestResourceId>
+  <RepositoryType>TestRepository</RepositoryType>
+  <SignatureCodonId>HP.ST.WebServiceWsdl</SignatureCodonId>
+  <SignatureAddinVersion>14.0.427.0</SignatureAddinVersion>
+  <Properties>
+    <Item>
+      <Key>
+        <string>RepositoryPath</string>
+      </Key>
+      <Value>
+        <string>C:\Users\jo\Documents\Unified Functional Testing\APITest1\EmbeddedResources</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>ResourceOrigin</string>
+      </Key>
+      <Value>
+        <string>C:\Users\jo\Documents\Unified Functional Testing\APITest1\EmbeddedResources\globalweat</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>PrototypeDbVersion</string>
+      </Key>
+      <Value>
+        <string>14.0.427.0</string>
+      </Value>
+    </Item>
+  </Properties>
+</ResourceManifest>

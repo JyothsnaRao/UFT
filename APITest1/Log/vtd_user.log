@@ -1,0 +1,38 @@
+2017-07-24 18:30:58,534 [1] INFO  - Loaded appender: BufferingForwardingAppender
+2017-07-24 18:30:58,796 [1] INFO  - Loaded appender: FileAppenderInternal
+2017-07-24 18:30:58,797 [1] INFO  - Loaded appender: RollingFileAppender_HTMLReporter
+2017-07-24 18:30:58,798 [1] INFO  - Loaded appender: RollingFileAppender_Mobile
+2017-07-24 18:30:58,798 [1] INFO  - Loaded appender: FileAppenderExternal
+2017-07-24 18:30:58,799 [1] INFO  - Loaded appender: UserLoggerAppender
+2017-07-24 18:30:58,800 [1] INFO  - Loaded appender: BufferingForwardingAppender
+2017-07-24 18:30:58,801 [1] INFO  - Loaded appender: FileAppenderInternal
+2017-07-24 18:30:58,801 [1] INFO  - Loaded appender: RollingFileAppender_HTMLReporter
+2017-07-24 18:30:58,802 [1] INFO  - Loaded appender: RollingFileAppender_Mobile
+2017-07-24 18:30:58,802 [1] INFO  - Loaded appender: FileAppenderExternal
+2017-07-24 18:30:58,803 [1] INFO  - Loaded appender: UserLoggerAppender
+2017-07-24 18:30:59,431 [24] INFO  - 
+Request:
+
+<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+  <Body>
+    <GetWeather xmlns="http://www.webserviceX.NET">
+      <CityName>Fort Worth</CityName>
+      <CountryName>United States</CountryName>
+    </GetWeather>
+  </Body>
+</Envelope>
+
+2017-07-24 18:30:59,489 [24] INFO  - URL: http://www.webservicex.com/globalweather.asmx
+2017-07-24 18:31:00,605 [24] INFO  - Returning the response to the previous channel
+2017-07-24 18:31:00,626 [24] INFO  - 
+Response:
+
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <soap:Body>
+    <GetWeatherResponse xmlns="http://www.webserviceX.NET">
+      <GetWeatherResult>Data Not Found</GetWeatherResult>
+    </GetWeatherResponse>
+  </soap:Body>
+</soap:Envelope>
+
+2017-07-24 18:31:01,023 [24] INFO  - Structural Validation: True

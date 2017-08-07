@@ -1,0 +1,6 @@
+2017-07-31 18:50:02,922 [1] INFO  - Loaded appender: FileAppenderExternal
+2017-07-31 18:50:02,927 [1] INFO  - Loaded appender: UserLoggerAppender
+2017-07-31 18:50:02,927 [1] INFO  - Loaded appender: FileAppenderInternal
+2017-07-31 18:50:02,928 [1] INFO  - Loaded appender: FileAppenderExternal
+2017-07-31 18:50:02,928 [1] INFO  - Loaded appender: UserLoggerAppender
+2017-07-31 18:50:02,928 [1] INFO  - Loaded appender: FileAppenderInternal
